@@ -1,6 +1,6 @@
 # HotelBookingApp
 
-This is a React Native (Expo-style) hotel booking demo app used for DSW02B1 Graded Lab 1.
+This is a React Native (Expo-style) hotel booking demo app used for DSW02B1 final assessment.
 
 Features implemented:
 - Onboarding (first launch)
@@ -28,6 +28,7 @@ expo install expo-image-picker
 
 4. Run the app
 ```powershell
+npm install
 npm run web
 # or if using Expo CLI
 expo start
@@ -39,3 +40,4 @@ Notes
 - For production, do NOT store secret keys in source files. Use environment variables or secure storage.
 
 If you want, I can continue to polish styles, add unit tests, or implement a small edit-profile screen.
+
